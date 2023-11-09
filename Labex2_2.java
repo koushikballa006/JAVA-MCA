@@ -6,7 +6,7 @@ public class Labex2_2 {
         stringBuffer.append("balla");
         System.out.println("Append(): " + stringBuffer);
 
-        stringBuffer.insert(7, "mca ");
+        stringBuffer.insert(3,"mca ");
         System.out.println("After insert(): " + stringBuffer);
 
         
